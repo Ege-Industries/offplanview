@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://offplanview.com/sitemap.xml
